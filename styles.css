@@ -31,6 +31,7 @@ p {
 .qr-box {
   background-color: white;
   width: 350px;
+  min-width: 250px;
   max-width: 25%;
   height: 500px;
   border-radius: 15px;
